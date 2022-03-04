@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hussam Youssef</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Hussam</h1>
 <h3 align="center">Frontend Developer From Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdhusam&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdhusam" /> </p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Micro Frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmdhusam?tab=repositories](https://github.com/ahmdhusam?tab=repositories)
+- 👨‍💻 All of my projects are available at [ClickMe](https://github.com/ahmdhusam?tab=repositories)
 
-- 💬 Ask me about **js, ts, react, next**
+- 💬 Ask me about **javascript, typescript, react.js, next.js**
 
 - 📫 How to reach me **ahmdhusam7@gmail.com**
 
