@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmdhusam&label=Profile%20views&color=0e75b6&style=flat" alt="ahmdhusam" /> </p>
 
-- 🔭 I’m currently working on [NetFlix Clone](https://github.com/ahmdhusam/netflix-clone)
+- 🔭 I’m currently working on [Amazon Clone](https://github.com/ahmdhusam/amazon-clone)
 
 - 🌱 I’m currently learning **Micro Frontend**
 
-- 👨‍💻 All of my projects are available at [ClickMe](https://github.com/ahmdhusam?tab=repositories)
+- 👨‍💻 All of my projects are available at [ClickHere](https://github.com/ahmdhusam?tab=repositories)
 
 - 💬 Ask me about **javascript, typescript, react.js, next.js**
 
